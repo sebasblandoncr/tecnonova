@@ -15,7 +15,7 @@ Desarrollar una solución web con Java y Spring Boot que facilite la venta en l�
 | Nombre | Usuario de GitHub |
 |---|---|
 | Sebastián Blandón | @sebasblandoncr |
-| Nombre Apellido | @usuario |
+| Ashley Amador | @ashamador |
 | Nombre Apellido | @usuario |
 | Nombre Apellido | @usuario |
 
