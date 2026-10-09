@@ -1,6 +1,6 @@
 # TecnoNova – Tienda en línea de dispositivos electrónicos
 
-Proyecto final del curso **SC-403 Desarrollo de Aplicaciones Web y Patrones** – Universidad Fidélitas.
+Proyecto final del curso Universidad Fidélitas.
 
 ## Descripción
 
